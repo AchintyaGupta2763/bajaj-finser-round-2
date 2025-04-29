@@ -8,4 +8,4 @@ in one terminal run `python -m venv .venv`
 then `pip install -r requirements.txt`
 then in one terminal type `uvicorn main:app --reload --host 0.0.0.0 --port 8000`
 then in other type `streamlit run app.py`
-![screenshot](Screenshot 2025-04-29 124534.png)
+![screenshot](output.png)
